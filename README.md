@@ -158,10 +158,6 @@ File `predicted_data_sales_profit.csv` berisi:
 -   Predicted Total Sales
 -   Predicted Operating Profit
 
-## 👥 Tim Pengembang
-
-Kelompok 1 - Big Data (D)
-
 ## 📝 Lisensi
 
 Proyek ini dibuat untuk keperluan akademis/pembelajaran.
